@@ -1,5 +1,5 @@
 {
-  "name": "rabbitPractice",
+  "name": "rabbitpractice",
   "version": "1.0.0",
   "description": "Learn RabbitMQ",
   "main": "index.js",
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/eksilva/rabbitPractice#readme",
   "dependencies": {
-    "amqplib": "^0.8.0",
+    "amqplib": "latest",
     "express": "^4.17.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
